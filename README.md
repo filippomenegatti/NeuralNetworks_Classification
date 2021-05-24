@@ -1,3 +1,7 @@
+---
+Author: Filippo Menegatti
+---
+
 # Machine Learning Project
 Project for the Statistical Methods for Machine Learning course from the Data Science and Economics Master's Degree (University of Milan)
 
